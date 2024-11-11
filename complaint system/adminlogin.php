@@ -1,6 +1,6 @@
 <?php
-$name=$_POST['name'];
-$pass=$_POST['passw'];
+$name=$_POST['admin'];
+$pass=$_POST['admin'];
 
 if($name==$pass)
 {
